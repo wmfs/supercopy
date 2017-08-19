@@ -1,0 +1,42 @@
+{
+  "name": "supercopy",
+  "description": "Takes a specifically-named directory structure of CSV files and conjures bulk insert, update and delete statements and applies them to a PostgreSQL database.",
+  "version": "0.0.2",
+  "author": "Tim Needham",
+  "keywords": [
+    "postgres",
+    "postgresql",
+    "copy",
+    "import",
+    "csv"
+  ],
+  "main": "./lib/index.js",
+  "dependencies":
+
+  {
+    "boom": "^5.2.0",
+    "debug": "^2.6.8",
+    "async": "^2.5.0",
+    "csv-string": "^2.3.2",
+    "first-line": "^1.0.2",
+    "pg": "^6.4.1",
+    "upath": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.5.0",
+    "standard": "^10.0.3",
+    "chai": "^4.1.0"
+  },
+  "scripts": {
+    "standard": "standard",
+    "test": "standard && \"./node_modules/.bin/_mocha\" -R spec"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wmfs/tymly"
+  },
+  "bugs": {
+    "url": "https://github.com/wmfs/supercopy/issues"
+  }
+}
