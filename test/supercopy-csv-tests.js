@@ -4,7 +4,7 @@
 
 const process = require('process')
 const expect = require('chai').expect
-const HlPgClient = require('hl-pg-client')
+const HlPgClient = require('@wmfs/hl-pg-client')
 const supercopy = require('./../lib')
 const path = require('path')
 const fs = require('fs')
