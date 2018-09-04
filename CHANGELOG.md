@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/wmfs/supercopy/compare/v1.1.0...v1.2.0) (2018-09-04)
+
+
+### 🛠 Builds
+
+* **deps:** update csv-string requirement from 3.1.3 to 3.1.5 ([f32007a](https://github.com/wmfs/supercopy/commit/f32007a))
+* **deps-dev:** update codecov requirement from 3.0.4 to 3.1.0 ([04d69a6](https://github.com/wmfs/supercopy/commit/04d69a6))
+
 # [1.1.0](https://github.com/wmfs/supercopy/compare/v1.0.2...v1.1.0) (2018-08-30)
 
 
