@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/wmfs/supercopy/compare/v1.3.0...v1.4.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 3.2.1 to 3.2.3 ([ca4fdf2](https://github.com/wmfs/supercopy/commit/ca4fdf2))
+
 # [1.3.0](https://github.com/wmfs/supercopy/compare/v1.2.0...v1.3.0) (2018-09-11)
 
 
