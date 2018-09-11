@@ -26,7 +26,7 @@
     "async": "2.6.1",
     "boom": "7.2.0",
     "csv-string": "3.1.5",
-    "debug": "3.1.0",
+    "debug": "3.2.1",
     "pg": "7.4.3",
     "pg-copy-streams": "1.2.0",
     "rimraf": "2.6.2",
