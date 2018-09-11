@@ -1,3 +1,14 @@
+# [1.3.0](https://github.com/wmfs/supercopy/compare/v1.2.0...v1.3.0) (2018-09-11)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 3.1.0 to 3.2.1 ([48670d2](https://github.com/wmfs/supercopy/commit/48670d2))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/hl-pg-client requirement ([d619e8d](https://github.com/wmfs/supercopy/commit/d619e8d))
+* **deps-dev:** update semantic-release requirement ([04fbbaf](https://github.com/wmfs/supercopy/commit/04fbbaf))
+* **deps-dev:** update semantic-release requirement ([b1adcbc](https://github.com/wmfs/supercopy/commit/b1adcbc))
+* **dev-deps:** Move to standard 12.0.1 ([0b09c48](https://github.com/wmfs/supercopy/commit/0b09c48))
+
 # [1.2.0](https://github.com/wmfs/supercopy/compare/v1.1.0...v1.2.0) (2018-09-04)
 
 
