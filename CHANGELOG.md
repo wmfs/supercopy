@@ -1,3 +1,12 @@
+# [1.7.0](https://github.com/wmfs/supercopy/compare/v1.6.0...v1.7.0) (2018-10-03)
+
+
+### 🛠 Builds
+
+* **deps:** update pg requirement from 7.4.3 to 7.5.0 ([ecf9400](https://github.com/wmfs/supercopy/commit/ecf9400))
+* **deps-dev:** update chai requirement from 4.1.2 to 4.2.0 ([659302d](https://github.com/wmfs/supercopy/commit/659302d))
+* **deps-dev:** update semantic-release requirement ([3f4c3e1](https://github.com/wmfs/supercopy/commit/3f4c3e1))
+
 # [1.6.0](https://github.com/wmfs/supercopy/compare/v1.5.0...v1.6.0) (2018-09-12)
 
 
