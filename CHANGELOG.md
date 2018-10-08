@@ -1,3 +1,12 @@
+# [1.8.0](https://github.com/wmfs/supercopy/compare/v1.7.0...v1.8.0) (2018-10-08)
+
+
+### 🛠 Builds
+
+* **deps:** update debug requirement from 4.0.1 to 4.1.0 ([429a4a4](https://github.com/wmfs/supercopy/commit/429a4a4))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/hl-pg-client requirement ([8eea553](https://github.com/wmfs/supercopy/commit/8eea553))
+* **deps-dev:** update semantic-release requirement ([42aeb2d](https://github.com/wmfs/supercopy/commit/42aeb2d))
+
 # [1.7.0](https://github.com/wmfs/supercopy/compare/v1.6.0...v1.7.0) (2018-10-03)
 
 
