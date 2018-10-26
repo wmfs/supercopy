@@ -1,3 +1,17 @@
+# [1.9.0](https://github.com/wmfs/supercopy/compare/v1.8.0...v1.9.0) (2018-10-26)
+
+
+### 🛠 Builds
+
+* **deps:** update pg requirement from 7.5.0 to 7.6.0 ([9e96c37](https://github.com/wmfs/supercopy/commit/9e96c37))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([5e5663c](https://github.com/wmfs/supercopy/commit/5e5663c))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([21ca52f](https://github.com/wmfs/supercopy/commit/21ca52f))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/hl-pg-client requirement ([b9b0126](https://github.com/wmfs/supercopy/commit/b9b0126))
+* **deps-dev:** update nyc requirement from 13.0.1 to 13.1.0 ([e825fe2](https://github.com/wmfs/supercopy/commit/e825fe2))
+* **deps-dev:** update semantic-release requirement ([53c831a](https://github.com/wmfs/supercopy/commit/53c831a))
+* **deps-dev:** update semantic-release requirement ([b35e1cc](https://github.com/wmfs/supercopy/commit/b35e1cc))
+* **deps-dev:** update semantic-release requirement ([9e0d53c](https://github.com/wmfs/supercopy/commit/9e0d53c))
+
 # [1.8.0](https://github.com/wmfs/supercopy/compare/v1.7.0...v1.8.0) (2018-10-08)
 
 
