@@ -1,3 +1,12 @@
+# [1.10.0](https://github.com/wmfs/supercopy/compare/v1.9.0...v1.10.0) (2018-11-01)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.0 to 7.2.1 ([2b987af](https://github.com/wmfs/supercopy/commit/2b987af))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/hl-pg-client requirement ([6ff2e01](https://github.com/wmfs/supercopy/commit/6ff2e01))
+* **deps-dev:** update semantic-release requirement ([deb76aa](https://github.com/wmfs/supercopy/commit/deb76aa))
+
 # [1.9.0](https://github.com/wmfs/supercopy/compare/v1.8.0...v1.9.0) (2018-10-26)
 
 
