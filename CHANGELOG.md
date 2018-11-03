@@ -1,3 +1,11 @@
+# [1.11.0](https://github.com/wmfs/supercopy/compare/v1.10.0...v1.11.0) (2018-11-03)
+
+
+### 🛠 Builds
+
+* **deps:** update boom requirement from 7.2.1 to 7.2.2 ([a2ccbad](https://github.com/wmfs/supercopy/commit/a2ccbad))
+* **deps-dev:** update semantic-release requirement ([f6a4847](https://github.com/wmfs/supercopy/commit/f6a4847))
+
 # [1.10.0](https://github.com/wmfs/supercopy/compare/v1.9.0...v1.10.0) (2018-11-01)
 
 
