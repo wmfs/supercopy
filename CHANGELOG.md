@@ -1,3 +1,11 @@
+# [1.12.0](https://github.com/wmfs/supercopy/compare/v1.11.0...v1.12.0) (2018-11-07)
+
+
+### 🛠 Builds
+
+* **deps:** update pg requirement from 7.6.0 to 7.6.1 ([72278d0](https://github.com/wmfs/supercopy/commit/72278d0))
+* **deps-dev:** update semantic-release requirement ([2067c16](https://github.com/wmfs/supercopy/commit/2067c16))
+
 # [1.11.0](https://github.com/wmfs/supercopy/compare/v1.10.0...v1.11.0) (2018-11-03)
 
 
