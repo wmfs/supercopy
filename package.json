@@ -27,7 +27,7 @@
     "boom": "7.2.2",
     "csv-string": "3.1.5",
     "debug": "4.1.0",
-    "pg": "7.6.0",
+    "pg": "7.6.1",
     "pg-copy-streams": "1.2.0",
     "rimraf": "2.6.2",
     "upath": "1.1.0"
