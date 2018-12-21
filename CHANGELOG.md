@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/wmfs/supercopy/compare/v1.13.0...v1.14.0) (2018-12-21)
+
+
+### 🛠 Builds
+
+* **deps:** Update boom requirement from 7.2.2 to 7.3.0 ([#85](https://github.com/wmfs/supercopy/issues/85)) ([48d654c](https://github.com/wmfs/supercopy/commit/48d654c))
+
 # [1.13.0](https://github.com/wmfs/supercopy/compare/v1.12.0...v1.13.0) (2018-12-04)
 
 
