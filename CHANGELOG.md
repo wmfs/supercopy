@@ -1,3 +1,16 @@
+# [1.15.0](https://github.com/wmfs/supercopy/compare/v1.14.0...v1.15.0) (2019-02-08)
+
+
+### 🛠 Builds
+
+* **deps:** Update debug requirement from 4.1.0 to 4.1.1 ([95919ad](https://github.com/wmfs/supercopy/commit/95919ad))
+* **deps:** Update pg requirement from 7.7.1 to 7.8.0 ([ca4b835](https://github.com/wmfs/supercopy/commit/ca4b835))
+* **deps:** Update rimraf requirement from 2.6.2 to 2.6.3 ([6c767c2](https://github.com/wmfs/supercopy/commit/6c767c2))
+* **deps-dev:** Update [@semantic-release](https://github.com/semantic-release)/changelog requirement ([ce00a5a](https://github.com/wmfs/supercopy/commit/ce00a5a))
+* **deps-dev:** Update [@semantic-release](https://github.com/semantic-release)/git requirement ([67895d8](https://github.com/wmfs/supercopy/commit/67895d8))
+* **deps-dev:** Update nyc requirement from 13.1.0 to 13.2.0 ([9eef897](https://github.com/wmfs/supercopy/commit/9eef897))
+* **deps-dev:** Update semantic-release requirement ([e86cbc4](https://github.com/wmfs/supercopy/commit/e86cbc4))
+
 # [1.14.0](https://github.com/wmfs/supercopy/compare/v1.13.0...v1.14.0) (2018-12-21)
 
 
