@@ -26,10 +26,10 @@
     "async": "2.6.1",
     "boom": "7.3.0",
     "csv-string": "3.1.5",
-    "debug": "4.1.0",
-    "pg": "7.7.1",
+    "debug": "4.1.1",
+    "pg": "7.8.0",
     "pg-copy-streams": "1.2.0",
-    "rimraf": "2.6.2",
+    "rimraf": "2.6.3",
     "upath": "1.1.0"
   },
   "devDependencies": {
@@ -39,10 +39,10 @@
     "cz-conventional-changelog": "2.1.0",
     "mocha": "5.2.0",
     "nyc": "13.2.0",
-    "semantic-release": "15.12.2",
+    "semantic-release": "15.13.3",
     "standard": "12.0.1",
-    "@semantic-release/changelog": "3.0.1",
-    "@semantic-release/git": "7.0.5",
+    "@semantic-release/changelog": "3.0.2",
+    "@semantic-release/git": "7.0.8",
     "@wmfs/hl-pg-client": "1.10.0"
   },
   "scripts": {
