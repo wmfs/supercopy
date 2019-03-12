@@ -30,7 +30,7 @@
     "pg": "7.8.0",
     "pg-copy-streams": "1.2.0",
     "rimraf": "2.6.3",
-    "upath": "1.1.0"
+    "upath": "1.1.2"
   },
   "devDependencies": {
     "chai": "4.2.0",
