@@ -28,7 +28,7 @@
     "csv-string": "3.1.5",
     "debug": "4.1.1",
     "pg": "7.8.0",
-    "pg-copy-streams": "1.2.0",
+    "pg-copy-streams": "2.0.0",
     "rimraf": "2.6.3",
     "upath": "1.1.0"
   },
