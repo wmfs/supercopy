@@ -1,3 +1,12 @@
+# [1.16.0](https://github.com/wmfs/supercopy/compare/v1.15.0...v1.16.0) (2019-06-27)
+
+
+### 🛠 Builds
+
+* **deps:** Update upath requirement from 1.1.0 to 1.1.2 ([9d3f299](https://github.com/wmfs/supercopy/commit/9d3f299))
+* **deps-dev:** Update [@wmfs](https://github.com/wmfs)/hl-pg-client requirement ([1e59ff9](https://github.com/wmfs/supercopy/commit/1e59ff9))
+* **deps-dev:** Update semantic-release requirement ([6265830](https://github.com/wmfs/supercopy/commit/6265830))
+
 # [1.15.0](https://github.com/wmfs/supercopy/compare/v1.14.0...v1.15.0) (2019-02-08)
 
 
