@@ -1,3 +1,12 @@
+# [1.17.0](https://github.com/wmfs/supercopy/compare/v1.16.0...v1.17.0) (2019-07-02)
+
+
+### 🛠 Builds
+
+* **deps:** Update pg-copy-streams requirement from 1.2.0 to 2.2.0 ([a15a6c3](https://github.com/wmfs/supercopy/commit/a15a6c3))
+* **deps-dev:** Update [@semantic-release](https://github.com/semantic-release)/git requirement ([5fba04a](https://github.com/wmfs/supercopy/commit/5fba04a))
+* **deps-dev:** Update semantic-release requirement ([54b8384](https://github.com/wmfs/supercopy/commit/54b8384))
+
 # [1.16.0](https://github.com/wmfs/supercopy/compare/v1.15.0...v1.16.0) (2019-06-27)
 
 
