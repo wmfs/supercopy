@@ -1,3 +1,11 @@
+# [1.18.0](https://github.com/wmfs/supercopy/compare/v1.17.0...v1.18.0) (2019-07-02)
+
+
+### 🛠 Builds
+
+* **deps:** Update pg requirement from 7.8.0 to 7.11.0 ([a361dc3](https://github.com/wmfs/supercopy/commit/a361dc3))
+* **deps-dev:** Update mocha requirement from 5.2.0 to 6.1.4 ([15ee250](https://github.com/wmfs/supercopy/commit/15ee250))
+
 # [1.17.0](https://github.com/wmfs/supercopy/compare/v1.16.0...v1.17.0) (2019-07-02)
 
 
