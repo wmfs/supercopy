@@ -1,3 +1,24 @@
+# [1.19.0](https://github.com/wmfs/supercopy/compare/v1.18.0...v1.19.0) (2019-12-31)
+
+
+### 🛠 Builds
+
+* **deps:** Update async requirement from 2.6.1 to 2.6.3 ([cb35304](https://github.com/wmfs/supercopy/commit/cb35304b0072d087452bb3ef41e5ddaa32d8c55d))
+* **deps-dev:** bump packages ([e493964](https://github.com/wmfs/supercopy/commit/e493964e27a5f988240dd8652df71b1a39bcbe9d))
+* **deps-dev:** update dev dependancies ([6a88092](https://github.com/wmfs/supercopy/commit/6a88092f93445e9c1e41cfc1b730d2e0ee5929bd))
+* **deps-dev:** Update nyc requirement from 13.2.0 to 14.1.1 ([2412e11](https://github.com/wmfs/supercopy/commit/2412e1122d58cfaccd62d72fc8f40faaae4ae3ee))
+
+
+### 📚 Documentation
+
+* Add CircleCI badge ([b267e13](https://github.com/wmfs/supercopy/commit/b267e1340dbdd58bac443b4b9575c64bd42697c5))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Add CircleCI config ([54901b1](https://github.com/wmfs/supercopy/commit/54901b17fa9cffa0eef1a87259bc37c3229010b0))
+* **travis:** Remove Travis config ([45f1451](https://github.com/wmfs/supercopy/commit/45f145164b2800dc89d8ea9fafb2d71c6e561948))
+
 # [1.18.0](https://github.com/wmfs/supercopy/compare/v1.17.0...v1.18.0) (2019-07-02)
 
 
