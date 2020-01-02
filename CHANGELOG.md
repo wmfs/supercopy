@@ -1,3 +1,10 @@
+# [1.23.0](https://github.com/wmfs/supercopy/compare/v1.22.0...v1.23.0) (2020-01-02)
+
+
+### 🛠 Builds
+
+* **deps:** Bump csv-string from 3.1.5 to 3.1.7 ([9380149](https://github.com/wmfs/supercopy/commit/9380149a1f7170dca285b1c905c7d5756bac2f15))
+
 # [1.22.0](https://github.com/wmfs/supercopy/compare/v1.21.0...v1.22.0) (2020-01-02)
 
 
