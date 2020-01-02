@@ -1,3 +1,10 @@
+# [1.20.0](https://github.com/wmfs/supercopy/compare/v1.19.0...v1.20.0) (2020-01-02)
+
+
+### 🛠 Builds
+
+* **deps:** Update pg-copy-streams requirement from 2.2.0 to 2.2.2 ([e3a80aa](https://github.com/wmfs/supercopy/commit/e3a80aadf1ccd8c701507d7d3571b69a7cf4bc0a))
+
 # [1.19.0](https://github.com/wmfs/supercopy/compare/v1.18.0...v1.19.0) (2019-12-31)
 
 
