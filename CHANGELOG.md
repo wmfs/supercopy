@@ -1,3 +1,10 @@
+# [1.22.0](https://github.com/wmfs/supercopy/compare/v1.21.0...v1.22.0) (2020-01-02)
+
+
+### 🛠 Builds
+
+* **deps:** Update upath requirement from 1.1.2 to 1.2.0 ([7282d94](https://github.com/wmfs/supercopy/commit/7282d94cebe50c51672cd5f9c3694ae51d84ee68))
+
 # [1.21.0](https://github.com/wmfs/supercopy/compare/v1.20.0...v1.21.0) (2020-01-02)
 
 
