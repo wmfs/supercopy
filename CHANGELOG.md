@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/wmfs/supercopy/compare/v1.20.0...v1.21.0) (2020-01-02)
+
+
+### 🛠 Builds
+
+* **deps:** Update rimraf requirement from 2.6.3 to 3.0.0 ([232b931](https://github.com/wmfs/supercopy/commit/232b93163e79246ccb651c18dfea6aee3ce006d5))
+
 # [1.20.0](https://github.com/wmfs/supercopy/compare/v1.19.0...v1.20.0) (2020-01-02)
 
 
