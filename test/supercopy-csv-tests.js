@@ -87,13 +87,13 @@ describe('Run some basic tests', function () {
         }
         expect(result.rows).to.eql(
           [
-            { 'child_no': 10, 'first_name': 'Lisa', 'last_name': 'Simpson' },
-            { 'child_no': 20, 'first_name': 'Bart', 'last_name': 'Simpson' },
-            { 'child_no': 30, 'first_name': 'Maggie', 'last_name': 'Simpson' },
-            { 'child_no': 40, 'first_name': 'Rod', 'last_name': 'Flanders' },
-            { 'child_no': 50, 'first_name': 'Todd', 'last_name': 'Flanders' },
-            { 'child_no': 60, 'first_name': 'Nelson', 'last_name': 'Muntz' },
-            { 'child_no': 70, 'first_name': 'Milhouse', 'last_name': 'Van Houten' }
+            { child_no: 10, first_name: 'Lisa', last_name: 'Simpson' },
+            { child_no: 20, first_name: 'Bart', last_name: 'Simpson' },
+            { child_no: 30, first_name: 'Maggie', last_name: 'Simpson' },
+            { child_no: 40, first_name: 'Rod', last_name: 'Flanders' },
+            { child_no: 50, first_name: 'Todd', last_name: 'Flanders' },
+            { child_no: 60, first_name: 'Nelson', last_name: 'Muntz' },
+            { child_no: 70, first_name: 'Milhouse', last_name: 'Van Houten' }
           ]
         )
         done()
@@ -183,8 +183,8 @@ describe('Run some basic tests', function () {
         }
         expect(result.rows).to.eql(
           [
-            { 'child_no': 50, 'first_name': 'Todd', 'last_name': 'Flanders' },
-            { 'child_no': 70, 'first_name': 'Milhouse', 'last_name': 'Van Houten' }
+            { child_no: 50, first_name: 'Todd', last_name: 'Flanders' },
+            { child_no: 70, first_name: 'Milhouse', last_name: 'Van Houten' }
           ]
         )
         done()
