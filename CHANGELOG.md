@@ -1,3 +1,10 @@
+# [1.26.0](https://github.com/wmfs/supercopy/compare/v1.25.0...v1.26.0) (2020-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** Bump pg from 7.17.0 to 7.17.1 ([7e4644e](https://github.com/wmfs/supercopy/commit/7e4644ee2bd2cea8c13136008fad23ad25ecff2c))
+
 # [1.25.0](https://github.com/wmfs/supercopy/compare/v1.24.0...v1.25.0) (2020-01-27)
 
 
