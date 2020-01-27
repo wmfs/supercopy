@@ -1,3 +1,22 @@
+# [1.25.0](https://github.com/wmfs/supercopy/compare/v1.24.0...v1.25.0) (2020-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** Bump async from 2.6.3 to 3.1.1 ([af9803a](https://github.com/wmfs/supercopy/commit/af9803a4768c71833ac2e5c1fe20f7e477429659))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.13.0 to 1.14.0 ([53b47b4](https://github.com/wmfs/supercopy/commit/53b47b478ef01cb87bc28c756c0f3ff6e1dcbd35))
+* **deps-dev:** Bump codecov from 3.6.1 to 3.6.2 ([8bb42a1](https://github.com/wmfs/supercopy/commit/8bb42a19f00d224d6e4f298f7e651ef87d2a5f7a))
+* **deps-dev:** Bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([0b65557](https://github.com/wmfs/supercopy/commit/0b65557a62e08c1764882fabcc6408afb490ab4e))
+* **deps-dev:** Bump mocha from 6.2.2 to 7.0.0 ([c3add89](https://github.com/wmfs/supercopy/commit/c3add898164f4fc76aa0608620ffaf786d769608))
+* **deps-dev:** Bump mocha from 7.0.0 to 7.0.1 ([75b66a5](https://github.com/wmfs/supercopy/commit/75b66a581fafb287e5716c3c4a45ecbbe0566636))
+* **deps-dev:** Update standard requirement from 12.0.1 to 14.3.1 ([8e96d30](https://github.com/wmfs/supercopy/commit/8e96d30600b4680d653518846756f94f93945818))
+
+
+### 💎 Styles
+
+* Do not access Object.prototype method 'hasOwnProperty' from target object ([e6327e8](https://github.com/wmfs/supercopy/commit/e6327e8e593ee8a16de4f67e07b6483ca13090a8))
+* standard --fix ([55cea56](https://github.com/wmfs/supercopy/commit/55cea5663fc844793ba9cd3a6d05f636bc8c372c))
+
 # [1.24.0](https://github.com/wmfs/supercopy/compare/v1.23.0...v1.24.0) (2020-01-02)
 
 
