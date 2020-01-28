@@ -1,3 +1,12 @@
+# [1.27.0](https://github.com/wmfs/supercopy/compare/v1.26.0...v1.27.0) (2020-01-28)
+
+
+### 🛠 Builds
+
+* **deps:** Bump rimraf from 3.0.0 to 3.0.1 ([0d6b807](https://github.com/wmfs/supercopy/commit/0d6b80718f774e61d009d7f408ee85ed9126d1fe))
+* **deps-dev:** Bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([597f912](https://github.com/wmfs/supercopy/commit/597f912891c28cdfdedc6bdc2acbd6f97cd9855d))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.14.0 to 1.15.0 ([4591517](https://github.com/wmfs/supercopy/commit/45915173bfb4462aff3beb94d7fa4bd9aa930402))
+
 # [1.26.0](https://github.com/wmfs/supercopy/compare/v1.25.0...v1.26.0) (2020-01-27)
 
 
