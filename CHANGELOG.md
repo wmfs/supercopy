@@ -1,3 +1,11 @@
+# [1.28.0](https://github.com/wmfs/supercopy/compare/v1.27.0...v1.28.0) (2020-01-29)
+
+
+### 🛠 Builds
+
+* **deps:** Bump pg from 7.17.1 to 7.18.0 ([939cc67](https://github.com/wmfs/supercopy/commit/939cc67d75ae7f2730d156c43816b47752d86e12))
+* **deps-dev:** Bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([fe91623](https://github.com/wmfs/supercopy/commit/fe9162364a5a37b0a1ddd90e8eef97abf712d1e8))
+
 # [1.27.0](https://github.com/wmfs/supercopy/compare/v1.26.0...v1.27.0) (2020-01-28)
 
 
