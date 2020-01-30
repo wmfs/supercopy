@@ -1,3 +1,11 @@
+# [1.29.0](https://github.com/wmfs/supercopy/compare/v1.28.0...v1.29.0) (2020-01-30)
+
+
+### 🛠 Builds
+
+* **deps:** Bump pg from 7.18.0 to 7.18.1 ([c59fef7](https://github.com/wmfs/supercopy/commit/c59fef7d1a7dc386cff9aab75b84d48ef2d09250))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.15.0 to 1.16.0 ([a935b8f](https://github.com/wmfs/supercopy/commit/a935b8faf1053cbb6fabd254a9e877aab53c36b2))
+
 # [1.28.0](https://github.com/wmfs/supercopy/compare/v1.27.0...v1.28.0) (2020-01-29)
 
 
