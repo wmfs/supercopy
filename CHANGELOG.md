@@ -1,3 +1,10 @@
+# [1.32.0](https://github.com/wmfs/supercopy/compare/v1.31.0...v1.32.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** Bump async from 3.1.1 to 3.2.0 ([8007bea](https://github.com/wmfs/supercopy/commit/8007bea6a4f84b72081de1642907c78ed80434b3))
+
 # [1.31.0](https://github.com/wmfs/supercopy/compare/v1.30.0...v1.31.0) (2020-02-26)
 
 
