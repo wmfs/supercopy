@@ -1,3 +1,13 @@
+# [1.31.0](https://github.com/wmfs/supercopy/compare/v1.30.0...v1.31.0) (2020-02-26)
+
+
+### 🛠 Builds
+
+* **deps:** Bump csv-string from 3.1.7 to 3.1.8 ([13579d8](https://github.com/wmfs/supercopy/commit/13579d8793523baf660016ffd4d1d91402f0a819))
+* **deps-dev:** Bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([174cdf0](https://github.com/wmfs/supercopy/commit/174cdf0a2541fa324b2ac3b72b7015acbad32dd9))
+* **deps-dev:** Bump semantic-release from 15.14.0 to 17.0.3 ([93e18dd](https://github.com/wmfs/supercopy/commit/93e18ddcacba77864e98c3f2c81a74c8e97c92fd))
+* **deps-dev:** Bump semantic-release from 17.0.3 to 17.0.4 ([b5530ca](https://github.com/wmfs/supercopy/commit/b5530ca60cad0a3424b4fe7d9d97ffa4eb8c6e01))
+
 # [1.30.0](https://github.com/wmfs/supercopy/compare/v1.29.0...v1.30.0) (2020-02-10)
 
 
