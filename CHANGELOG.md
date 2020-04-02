@@ -1,3 +1,16 @@
+# [1.35.0](https://github.com/wmfs/supercopy/compare/v1.34.0...v1.35.0) (2020-04-02)
+
+
+### 🛠 Builds
+
+* **deps:** Bump pg from 7.18.2 to 8.0.0 ([cda4d23](https://github.com/wmfs/supercopy/commit/cda4d2380899d438d673b2f234d06ded4032e884))
+* **deps-dev:** Bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([b12e07d](https://github.com/wmfs/supercopy/commit/b12e07d96dce349dcb26c791ff32f25dd914d3f9))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([0825089](https://github.com/wmfs/supercopy/commit/0825089177b6caa73ed311b35461216914491c0e))
+
 # [1.34.0](https://github.com/wmfs/supercopy/compare/v1.33.0...v1.34.0) (2020-03-24)
 
 
