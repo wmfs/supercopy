@@ -1,3 +1,12 @@
+# [1.36.0](https://github.com/wmfs/supercopy/compare/v1.35.0...v1.36.0) (2020-04-15)
+
+
+### 🛠 Builds
+
+* **deps:** Bump pg from 8.0.0 to 8.0.2 ([0053bb5](https://github.com/wmfs/supercopy/commit/0053bb557576f4f4ac9cb29b6db116c41a85b493))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.18.0 to 1.19.0 ([8bf8651](https://github.com/wmfs/supercopy/commit/8bf865184e79fc3ac68c5af2dfb658b07780339f))
+* **deps-dev:** Bump nyc from 15.0.0 to 15.0.1 ([662fa33](https://github.com/wmfs/supercopy/commit/662fa33d09dbc0bb2249c5da93b777ba11d37f70))
+
 # [1.35.0](https://github.com/wmfs/supercopy/compare/v1.34.0...v1.35.0) (2020-04-02)
 
 
