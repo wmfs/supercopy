@@ -1,3 +1,15 @@
+# [1.37.0](https://github.com/wmfs/supercopy/compare/v1.36.0...v1.37.0) (2020-04-22)
+
+
+### 🛠 Builds
+
+* **deps:** Remove unused async, boom, and pg dependencies. ([77c8873](https://github.com/wmfs/supercopy/commit/77c88734429f796ef8e0dc145caf23c309d682c2))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.19.0 to 1.20.0 ([999edfe](https://github.com/wmfs/supercopy/commit/999edfea0d7cd0038120d6f90637d4e701fc2bd9))
+* **deps-dev:** Bump semantic-release from 17.0.4 to 17.0.5 ([b970079](https://github.com/wmfs/supercopy/commit/b9700796713330c568fee1e3236358e260d02650))
+* **deps-dev:** Bump semantic-release from 17.0.5 to 17.0.6 ([5f63090](https://github.com/wmfs/supercopy/commit/5f6309013b4014b651243a2166dffaaacd339bad))
+* **deps-dev:** Bump semantic-release from 17.0.6 to 17.0.7 ([5c33dbd](https://github.com/wmfs/supercopy/commit/5c33dbd9cdb2b8ff285a4b6b671cd59ce9fc9075))
+* **dev-deps:** rimraf is actually a dev dependency ([6225fcc](https://github.com/wmfs/supercopy/commit/6225fccf235961d45ceea6516144b64b86218ebf))
+
 # [1.36.0](https://github.com/wmfs/supercopy/compare/v1.35.0...v1.36.0) (2020-04-15)
 
 
