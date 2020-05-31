@@ -1,3 +1,17 @@
+# [1.38.0](https://github.com/wmfs/supercopy/compare/v1.37.0...v1.38.0) (2020-05-31)
+
+
+### 🛠 Builds
+
+* **deps:** Bump csv-string from 3.2.0 to 4.0.1 ([e3ecee0](https://github.com/wmfs/supercopy/commit/e3ecee0557186c4623f4202095955554881f515c))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.20.0 to 1.21.0 ([4a4a89f](https://github.com/wmfs/supercopy/commit/4a4a89f0e2e44da50377aaddc935a1fd9d0fd408))
+* **deps-dev:** Bump codecov from 3.6.5 to 3.7.0 ([2cb1019](https://github.com/wmfs/supercopy/commit/2cb10199de8ed796ae762c43971a3966d4d8782f))
+* **deps-dev:** Bump cz-conventional-changelog from 3.1.0 to 3.2.0 ([9711e25](https://github.com/wmfs/supercopy/commit/9711e251571376bc69a73094763ac4b39b901f8d))
+* **deps-dev:** Bump mocha from 7.1.1 to 7.1.2 ([3fe338a](https://github.com/wmfs/supercopy/commit/3fe338abf80ea9c7406429abeeb69db454952dea))
+* **deps-dev:** Bump mocha from 7.1.2 to 7.2.0 ([e8fc367](https://github.com/wmfs/supercopy/commit/e8fc36758f574cae3141eb090221a685570b0368))
+* **deps-dev:** Bump semantic-release from 17.0.7 to 17.0.8 ([2173d0b](https://github.com/wmfs/supercopy/commit/2173d0beb254db94f990b2121c770813ffc6a92a))
+* **deps-dev:** Bump standard from 14.3.3 to 14.3.4 ([ead83ce](https://github.com/wmfs/supercopy/commit/ead83ce99fc9a7c3a1ca6da99c3b8b9507f7c471))
+
 # [1.37.0](https://github.com/wmfs/supercopy/compare/v1.36.0...v1.37.0) (2020-04-22)
 
 
