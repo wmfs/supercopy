@@ -52,51 +52,35 @@ describe('Supercopy tests', function () {
       )
     })
 
-    it('Verify adult rows', function (done) {
-      client.query(
-        'select adult_no,first_name,last_name from supercopy_test.adults order by adult_no',
-        function (err, result) {
-          if (err) {
-            return done(err)
-          }
-          expect(result.rows).to.eql(
-            [
-              { adult_no: 10, first_name: 'Homer', last_name: 'Simpson' },
-              { adult_no: 20, first_name: 'Marge', last_name: 'Simpson' },
-              { adult_no: 30, first_name: 'Maud', last_name: 'Flanders' },
-              { adult_no: 40, first_name: 'Ned', last_name: 'Flanders' },
-              { adult_no: 50, first_name: 'Seymour', last_name: 'Skinner' },
-              { adult_no: 60, first_name: 'Charles', last_name: 'Burns' },
-              { adult_no: 80, first_name: 'Clancy', last_name: 'Wiggum' },
-              { adult_no: 90, first_name: 'Abraham', last_name: 'Simpson' },
-              { adult_no: 100, first_name: 'Mona', last_name: 'Simpson' }
-            ]
-          )
-          done()
-        }
+    it('Verify adult rows', async () => {
+      const result = await client.query('select adult_no,first_name,last_name from supercopy_test.adults order by adult_no')
+      expect(result.rows).to.eql(
+        [
+          { adult_no: 10, first_name: 'Homer', last_name: 'Simpson' },
+          { adult_no: 20, first_name: 'Marge', last_name: 'Simpson' },
+          { adult_no: 30, first_name: 'Maud', last_name: 'Flanders' },
+          { adult_no: 40, first_name: 'Ned', last_name: 'Flanders' },
+          { adult_no: 50, first_name: 'Seymour', last_name: 'Skinner' },
+          { adult_no: 60, first_name: 'Charles', last_name: 'Burns' },
+          { adult_no: 80, first_name: 'Clancy', last_name: 'Wiggum' },
+          { adult_no: 90, first_name: 'Abraham', last_name: 'Simpson' },
+          { adult_no: 100, first_name: 'Mona', last_name: 'Simpson' }
+        ]
       )
     })
 
-    it('Verify modified children rows', function (done) {
-      client.query(
-        'select child_no,first_name,last_name from supercopy_test.children order by child_no',
-        function (err, result) {
-          if (err) {
-            return done(err)
-          }
-          expect(result.rows).to.eql(
-            [
-              { child_no: 10, first_name: 'Lisa', last_name: 'Simpson' },
-              { child_no: 20, first_name: 'Bart', last_name: 'Simpson' },
-              { child_no: 30, first_name: 'Maggie', last_name: 'Simpson' },
-              { child_no: 40, first_name: 'Rod', last_name: 'Flanders' },
-              { child_no: 50, first_name: 'Todd', last_name: 'Flanders' },
-              { child_no: 60, first_name: 'Nelson', last_name: 'Muntz' },
-              { child_no: 70, first_name: 'Milhouse', last_name: 'Van Houten' }
-            ]
-          )
-          done()
-        }
+    it('Verify modified children rows', async () => {
+      const result = await client.query('select child_no,first_name,last_name from supercopy_test.children order by child_no')
+      expect(result.rows).to.eql(
+        [
+          { child_no: 10, first_name: 'Lisa', last_name: 'Simpson' },
+          { child_no: 20, first_name: 'Bart', last_name: 'Simpson' },
+          { child_no: 30, first_name: 'Maggie', last_name: 'Simpson' },
+          { child_no: 40, first_name: 'Rod', last_name: 'Flanders' },
+          { child_no: 50, first_name: 'Todd', last_name: 'Flanders' },
+          { child_no: 60, first_name: 'Nelson', last_name: 'Muntz' },
+          { child_no: 70, first_name: 'Milhouse', last_name: 'Van Houten' }
+        ]
       )
     })
   })
@@ -139,8 +123,8 @@ describe('Supercopy tests', function () {
   })
 
   describe('truncate first', () => {
-    it('supercopy some people, truncating the tables first', function (done) {
-      supercopy(
+    it('supercopy some people, truncating the tables first', function () {
+      return supercopy(
         {
           sourceDir: path.resolve(__dirname, './fixtures/input-data/people'),
           topDownTableOrder: ['adults', 'children'],
@@ -149,49 +133,30 @@ describe('Supercopy tests', function () {
           schemaName: 'supercopy_test',
           truncateTables: true,
           debug: true
-        },
-        function (err) {
-          done(err)
         }
       )
     })
 
-    it('Verify adult rows, truncated', function (done) {
-      client.query(
-        'select adult_no,first_name,last_name from supercopy_test.adults order by adult_no',
-        function (err, result) {
-          if (err) {
-            return done(err)
-          }
-          expect(result.rows).to.eql(
-            [
-              { adult_no: 30, first_name: 'Maud', last_name: 'Flanders' },
-              { adult_no: 40, first_name: 'Ned', last_name: 'Flanders' },
-              { adult_no: 80, first_name: 'Clancy', last_name: 'Wiggum' },
-              { adult_no: 90, first_name: 'Abraham', last_name: 'Simpson' },
-              { adult_no: 100, first_name: 'Mona', last_name: 'Simpson' }
-            ]
-          )
-          done()
-        }
+    it('Verify adult rows, truncated', async () => {
+      const result = await client.query('select adult_no,first_name,last_name from supercopy_test.adults order by adult_no')
+      expect(result.rows).to.eql(
+        [
+          { adult_no: 30, first_name: 'Maud', last_name: 'Flanders' },
+          { adult_no: 40, first_name: 'Ned', last_name: 'Flanders' },
+          { adult_no: 80, first_name: 'Clancy', last_name: 'Wiggum' },
+          { adult_no: 90, first_name: 'Abraham', last_name: 'Simpson' },
+          { adult_no: 100, first_name: 'Mona', last_name: 'Simpson' }
+        ]
       )
     })
 
-    it('Verify children rows (truncated)', function (done) {
-      client.query(
-        'select child_no,first_name,last_name from supercopy_test.children order by child_no',
-        function (err, result) {
-          if (err) {
-            return done(err)
-          }
-          expect(result.rows).to.eql(
-            [
-              { child_no: 50, first_name: 'Todd', last_name: 'Flanders' },
-              { child_no: 70, first_name: 'Milhouse', last_name: 'Van Houten' }
-            ]
-          )
-          done()
-        }
+    it('Verify children rows (truncated)', async () => {
+      const result = await client.query('select child_no,first_name,last_name from supercopy_test.children order by child_no')
+      expect(result.rows).to.eql(
+        [
+          { child_no: 50, first_name: 'Todd', last_name: 'Flanders' },
+          { child_no: 70, first_name: 'Milhouse', last_name: 'Van Houten' }
+        ]
       )
     })
   })
