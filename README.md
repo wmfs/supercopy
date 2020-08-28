@@ -62,6 +62,7 @@ supercopy(
 | `truncateTables`      | `boolean`  | A flag to indicate whether or not to truncate tables before supercopying into them
 | `debug`               | `boolean`  | Show debugging information on the console
 | `multicopy`           | `boolean`  | Enables 'sourceDir' to house many typical Supercopy 'sourceDir' shaped directories. Defaults to false.
+| `quote`               | `string`   | Override the the default quote character, ". It isn't necessary to quote fields but occasionally (especially when importing JSON fields) you need to, and this option will help.  
 | `directoryNames`      | `object`   | Overrides the default directory names - see below. 
 
 ### <a name="structure"></a>File structure
