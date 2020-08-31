@@ -37,8 +37,9 @@ supercopy(
     client: client,
     schemaName: 'my_schema',
     truncateTables: true,
-    debug: true
-    multicopy: false
+    debug: true,
+    multicopy: false,
+    directoryNames: { ... }
   },
   function (err) {
     // Done!
@@ -60,7 +61,9 @@ supercopy(
 | `schemaName`          | `string`   | Identifies a PostgreSQL schema where the tables that are to be affected by this copy be found.
 | `truncateTables`      | `boolean`  | A flag to indicate whether or not to truncate tables before supercopying into them
 | `debug`               | `boolean`  | Show debugging information on the console
-| `multicopy`               | `boolean`  | Enables 'sourceDir' to house many typical Supercopy 'sourceDir' shaped directories. Defaults to false.
+| `multicopy`           | `boolean`  | Enables 'sourceDir' to house many typical Supercopy 'sourceDir' shaped directories. Defaults to false.
+| `quote`               | `string`   | Override the the default quote character, ". It isn't necessary to quote fields but occasionally (especially when importing JSON fields) you need to, and this option will help.  
+| `directoryNames`      | `object`   | Overrides the default directory names - see below. 
 
 ### <a name="structure"></a>File structure
 
@@ -97,6 +100,9 @@ OR IF USING MULTICOPY
 #### Notes
 
 * The sub-directories here refer to the type of action that should be performed using CSV data files contained in it. Supported directory names are `insert`, `update`, `upsert` (try to update, failing that insert) and `delete`.
+* Directories are optional. A directory maybe missing or empty.
+* The `directoryNames` option can be used to apply actions to directories if the names don't meet the above structure. Eg 
+`directoryName : { 'inserts': 'new', 'deletes': 'old' }` would insert the contents of the directory named `new` and remove the contents of the `old` directory.
 * The filename of each file should refer to a table name in the schema identified by the `schemaName` option. 
 * The expected format of the .csv files is:
   * One line per record
