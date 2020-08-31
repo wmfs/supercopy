@@ -1,3 +1,51 @@
+# [1.39.0](https://github.com/wmfs/supercopy/compare/v1.38.0...v1.39.0) (2020-08-31)
+
+
+### ✨ Features
+
+* Added directoryNames option. ([956777b](https://github.com/wmfs/supercopy/commit/956777b2d5f6afddf365b6e2de07feafd29f52ec))
+* Added option.quote to change the quote default from " to whatever. ([fa41172](https://github.com/wmfs/supercopy/commit/fa4117206b88843c7ae0b179d1a9f6cb94e51b91))
+
+
+### 🐛 Bug Fixes
+
+* Tweak preprocess so it creates parent directories. ([3353676](https://github.com/wmfs/supercopy/commit/3353676a99b571f53f98645f8849e4f4b48a8fcd))
+
+
+### 🛠 Builds
+
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.21.0 to 1.22.0 ([3560075](https://github.com/wmfs/supercopy/commit/3560075fab1808c64744ee5f0d8fcb6534f6e8e6))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.22.0 to 1.23.0 ([8ce3239](https://github.com/wmfs/supercopy/commit/8ce32393eb175ff82cd77ba153bb0212f5e6cfbf))
+* **deps-dev:** Bump codecov from 3.7.0 to 3.7.1 ([f94d9d8](https://github.com/wmfs/supercopy/commit/f94d9d81faff15ec10066c5d71b4f665c4ce7961))
+* **deps-dev:** Bump codecov from 3.7.1 to 3.7.2 ([eba119f](https://github.com/wmfs/supercopy/commit/eba119f4df44f7c0a9b4fbb594053a631457e5ae))
+* **deps-dev:** Bump cz-conventional-changelog from 3.2.0 to 3.2.1 ([5479925](https://github.com/wmfs/supercopy/commit/54799258097f732f4e80ee76f285a1b433e1a2e0))
+* **deps-dev:** Bump cz-conventional-changelog from 3.2.1 to 3.3.0 ([ff7d8c8](https://github.com/wmfs/supercopy/commit/ff7d8c88dc556c0077495e1e7b628e3b91e25752))
+* **deps-dev:** Bump mocha from 7.2.0 to 8.0.1 ([46f459b](https://github.com/wmfs/supercopy/commit/46f459be544ebefe6c6463315c7abb96cea04c87))
+* **deps-dev:** Bump mocha from 8.0.1 to 8.1.0 ([55f93a7](https://github.com/wmfs/supercopy/commit/55f93a79beb30e53fd89b833e4039e7a444e9776))
+* **deps-dev:** Bump mocha from 8.1.0 to 8.1.1 ([a12c1b5](https://github.com/wmfs/supercopy/commit/a12c1b5ec0cc7ff3413cd95c0b5e3cd42fad5736))
+* **deps-dev:** Bump mocha from 8.1.1 to 8.1.2 ([ddf7ddc](https://github.com/wmfs/supercopy/commit/ddf7ddc4cde81e28bb1a06e7ac610774746bdbb9))
+* **deps-dev:** Bump mocha from 8.1.2 to 8.1.3 ([8243fdb](https://github.com/wmfs/supercopy/commit/8243fdb54d90b3e9a067432ebec5984b06b02e67))
+* **deps-dev:** Bump nyc from 15.0.1 to 15.1.0 ([4b15ebd](https://github.com/wmfs/supercopy/commit/4b15ebd598b07110b6031c872bb95f3703878587))
+* **deps-dev:** Bump semantic-release from 17.0.8 to 17.1.0 ([b3d5543](https://github.com/wmfs/supercopy/commit/b3d554301a3148139452f4039ab55a02734b2a5a))
+* **deps-dev:** Bump semantic-release from 17.1.0 to 17.1.1 ([60519ea](https://github.com/wmfs/supercopy/commit/60519ea9268b1c6e337c2076584cbaf262ecc96a))
+
+
+### 📚 Documentation
+
+* Update README with quote option. ([d86f7ec](https://github.com/wmfs/supercopy/commit/d86f7ec9afa4b9913ef30b0cf8e5710d618ca0a8))
+
+
+### 🚨 Tests
+
+* Split up tests using describe blocks ([11ab3d3](https://github.com/wmfs/supercopy/commit/11ab3d3f819c8242f465eadb5769eb8fb5542a17))
+* Use promises rather than callbacks ([447bed5](https://github.com/wmfs/supercopy/commit/447bed5b7551f789f5d537a71f4a39daaa6524f9))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** separate lint job [ch1009] ([15edcdc](https://github.com/wmfs/supercopy/commit/15edcdcb614897445bb867e99138ca0a2ebbc541))
+* **circle:** use updated circle node image [skip ci] ([ab27971](https://github.com/wmfs/supercopy/commit/ab27971f53f15b37ded15c8e6ffd05db40899646))
+
 # [1.38.0](https://github.com/wmfs/supercopy/compare/v1.37.0...v1.38.0) (2020-05-31)
 
 
