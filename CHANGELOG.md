@@ -1,3 +1,11 @@
+# [1.40.0](https://github.com/wmfs/supercopy/compare/v1.39.0...v1.40.0) (2020-09-28)
+
+
+### 🛠 Builds
+
+* **deps:** Bump debug from 4.1.1 to 4.2.0 ([74858da](https://github.com/wmfs/supercopy/commit/74858da4b4a05da4ed58d0d44f9a655347e5912a))
+* **deps-dev:** Bump semantic-release from 17.1.1 to 17.1.2 ([7b4bb5d](https://github.com/wmfs/supercopy/commit/7b4bb5d93d4918e82f2f2322b76fd29ef9dd8159))
+
 # [1.39.0](https://github.com/wmfs/supercopy/compare/v1.38.0...v1.39.0) (2020-08-31)
 
 
