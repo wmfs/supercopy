@@ -24,7 +24,7 @@
   "main": "./lib/index.js",
   "dependencies": {
     "csv-string": "4.0.1",
-    "debug": "4.2.0",
+    "debug": "4.3.0",
     "pg-copy-streams": "2.2.2",
     "upath": "1.2.0"
   },
