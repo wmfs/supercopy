@@ -1,3 +1,42 @@
+# [1.41.0](https://github.com/wmfs/supercopy/compare/v1.40.0...v1.41.0) (2021-01-05)
+
+
+### 🛠 Builds
+
+* **deps:** Bump debug from 4.2.0 to 4.3.1 ([144897f](https://github.com/wmfs/supercopy/commit/144897ffa9480e918ccd63fb82931c0f7fda6440))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.23.0 to 1.25.0 ([fb7fdc3](https://github.com/wmfs/supercopy/commit/fb7fdc3f5829516bee34acbb828b2a7fe2f17a55))
+* **deps-dev:** Bump codecov from 3.7.2 to 3.8.0 ([ceb114d](https://github.com/wmfs/supercopy/commit/ceb114de0b813f63f372c2ebc0ed90ca58947eed))
+* **deps-dev:** Bump codecov from 3.8.0 to 3.8.1 ([4e21d09](https://github.com/wmfs/supercopy/commit/4e21d096104263e8b6dc6fc038c1ecc0d97fdcfe))
+* **deps-dev:** Bump mocha from 8.1.3 to 8.2.0 ([06f321f](https://github.com/wmfs/supercopy/commit/06f321f4bdcee45411df01c933747fdfa0f6774d))
+* **deps-dev:** Bump mocha from 8.2.0 to 8.2.1 ([8393efc](https://github.com/wmfs/supercopy/commit/8393efc82aea0ebd5c74f79c471ca98dfbf5e918))
+* **deps-dev:** Bump semantic-release from 17.1.2 to 17.2.0 ([f20342c](https://github.com/wmfs/supercopy/commit/f20342cd9d8b5145c4744d48efa3b9380369cf9e))
+* **deps-dev:** Bump semantic-release from 17.2.0 to 17.2.1 ([8a307f2](https://github.com/wmfs/supercopy/commit/8a307f2bf1ac77028763a69ce561710b622efccb))
+* **deps-dev:** Bump semantic-release from 17.2.1 to 17.2.2 ([06ee728](https://github.com/wmfs/supercopy/commit/06ee72897cad4b96aa002629f1f188b64df2b9cf))
+* **deps-dev:** Bump semantic-release from 17.2.2 to 17.2.3 ([b487eee](https://github.com/wmfs/supercopy/commit/b487eee4c90e0230098322eef51797160dd5c8bc))
+* **deps-dev:** Bump semantic-release from 17.2.3 to 17.2.4 ([feceaf4](https://github.com/wmfs/supercopy/commit/feceaf4bd0ac0b630269609506edc2a09a19788b))
+* **deps-dev:** Bump semantic-release from 17.2.4 to 17.3.0 ([3acb435](https://github.com/wmfs/supercopy/commit/3acb4354ac4977be729b88dcf233534efcac7b5a))
+* **deps-dev:** Bump semantic-release from 17.3.0 to 17.3.1 ([8811517](https://github.com/wmfs/supercopy/commit/8811517c1278c799b35c9762b2f5bb084cbe8b40))
+* **deps-dev:** Bump standard from 14.3.4 to 15.0.0 ([80dbf93](https://github.com/wmfs/supercopy/commit/80dbf930b4f792af00dbf1638dd09b67c7c84223))
+* **deps-dev:** Bump standard from 15.0.0 to 15.0.1 ([3a51536](https://github.com/wmfs/supercopy/commit/3a51536eab44a5b38489522318af15c04c67de23))
+* **deps-dev:** Bump standard from 15.0.1 to 16.0.0 ([03b4129](https://github.com/wmfs/supercopy/commit/03b4129af3d0c85ee454941873e55156cf0e619b))
+* **deps-dev:** Bump standard from 16.0.0 to 16.0.1 ([99dcbd4](https://github.com/wmfs/supercopy/commit/99dcbd4bd36a030c90c747ec56ac8102127ccad5))
+* **deps-dev:** Bump standard from 16.0.1 to 16.0.2 ([98198cf](https://github.com/wmfs/supercopy/commit/98198cf496792fd7950afe7e8ae695109ced314c))
+* **deps-dev:** Bump standard from 16.0.2 to 16.0.3 ([5d87415](https://github.com/wmfs/supercopy/commit/5d874151844d7cdd81baf1ac13d1fea34504f342))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** authenticate Docker image pull [ch2767] ([7f45e62](https://github.com/wmfs/supercopy/commit/7f45e624bfa081b188f6bf476f016499641602a9))
+* **circle:** cache dependencies [ch2770] ([ae7c5c3](https://github.com/wmfs/supercopy/commit/ae7c5c3a0a21a1221cd2a8484d984ad53761a281))
+* **circle:** separate linting job [ch1009] ([64cf294](https://github.com/wmfs/supercopy/commit/64cf294f99feb0bef702eee5a0036bd6f946ff8e))
+* **circle:** update build environment variable context name [ch2771] ([cd53a01](https://github.com/wmfs/supercopy/commit/cd53a01284c995f31182fcd6ee1dd16c46f4710c))
+* **circle:** use tmpfs postgres image [ch2769] ([504f15d](https://github.com/wmfs/supercopy/commit/504f15d1431c06c12236a8948b95ef91dd18f3e9))
+
+
+### 💎 Styles
+
+* standard --fix ([57d231e](https://github.com/wmfs/supercopy/commit/57d231e55e7ac6a1cc29daa39c9d3ba0ad64d1de))
+
 # [1.40.0](https://github.com/wmfs/supercopy/compare/v1.39.0...v1.40.0) (2020-09-28)
 
 
