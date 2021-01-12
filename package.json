@@ -25,7 +25,7 @@
   "dependencies": {
     "csv-string": "4.0.1",
     "debug": "4.3.1",
-    "pg-copy-streams": "2.2.2",
+    "pg-copy-streams": "3.0.0",
     "upath": "2.0.1"
   },
   "devDependencies": {
