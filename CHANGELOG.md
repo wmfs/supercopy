@@ -1,3 +1,10 @@
+# [1.43.0](https://github.com/wmfs/supercopy/compare/v1.42.0...v1.43.0) (2021-01-12)
+
+
+### 🛠 Builds
+
+* **deps:** Bump pg-copy-streams from 2.2.2 to 3.0.0 ([dc61ad4](https://github.com/wmfs/supercopy/commit/dc61ad4c3c1fe521f33bd3fea96b13e4d5b502e1))
+
 # [1.42.0](https://github.com/wmfs/supercopy/compare/v1.41.0...v1.42.0) (2021-01-12)
 
 
