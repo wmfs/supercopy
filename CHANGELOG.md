@@ -1,3 +1,11 @@
+# [1.42.0](https://github.com/wmfs/supercopy/compare/v1.41.0...v1.42.0) (2021-01-12)
+
+
+### 🛠 Builds
+
+* **deps:** Bump upath from 1.2.0 to 2.0.1 ([02c7cef](https://github.com/wmfs/supercopy/commit/02c7cefac068a005c0a396e31cc1e16461ada749))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.25.0 to 1.26.0 ([0fd5bff](https://github.com/wmfs/supercopy/commit/0fd5bffe1b432e2f518306ee750ee9afbf2c01e2))
+
 # [1.41.0](https://github.com/wmfs/supercopy/compare/v1.40.0...v1.41.0) (2021-01-05)
 
 
