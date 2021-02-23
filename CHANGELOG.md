@@ -1,3 +1,26 @@
+# [1.44.0](https://github.com/wmfs/supercopy/compare/v1.43.0...v1.44.0) (2021-02-23)
+
+
+### 🐛 Bug Fixes
+
+* update copy stream event end -> finish ([2f50482](https://github.com/wmfs/supercopy/commit/2f50482e61a66ee361684bd4205e01251b2ee66b))
+
+
+### 🛠 Builds
+
+* **deps:** Bump pg-copy-streams from 2.2.2 to 5.1.1 ([559c881](https://github.com/wmfs/supercopy/commit/559c88192183274c8f43c019b2c2e610ece68f95))
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.26.0 to 1.27.0 ([e386174](https://github.com/wmfs/supercopy/commit/e386174d2ada26c50778bde0bd4992bee19bc82e))
+* **deps-dev:** Bump chai from 4.2.0 to 4.3.0 ([5e1c884](https://github.com/wmfs/supercopy/commit/5e1c884ff82bb07d440693c40299158a5c7db864))
+* **deps-dev:** Bump mocha from 8.2.1 to 8.3.0 ([fd24507](https://github.com/wmfs/supercopy/commit/fd24507d1c9b462f40c6417b96a03d6b5e044550))
+* **deps-dev:** Bump semantic-release from 17.3.1 to 17.3.2 ([b0daa5f](https://github.com/wmfs/supercopy/commit/b0daa5fb2e244a9363c5b34f81e1ed976348c9eb))
+* **deps-dev:** Bump semantic-release from 17.3.2 to 17.3.3 ([57b67a5](https://github.com/wmfs/supercopy/commit/57b67a5c448781128ad7b738f35ea383b2809701))
+* **deps-dev:** Bump semantic-release from 17.3.3 to 17.3.4 ([ab3bf92](https://github.com/wmfs/supercopy/commit/ab3bf92a60e42596faf13c023c2e1a053543ff6a))
+* **deps-dev:** Bump semantic-release from 17.3.4 to 17.3.5 ([73c9153](https://github.com/wmfs/supercopy/commit/73c91538cf68057636a3245be3ed0df1f770327a))
+* **deps-dev:** Bump semantic-release from 17.3.5 to 17.3.6 ([68dcb71](https://github.com/wmfs/supercopy/commit/68dcb71c23a417d4f9f7976bdf16b88709c450d7))
+* **deps-dev:** Bump semantic-release from 17.3.6 to 17.3.7 ([bcb3fb7](https://github.com/wmfs/supercopy/commit/bcb3fb73c989e3ce4005f92b1102b92b2b873684))
+* **deps-dev:** Bump semantic-release from 17.3.7 to 17.3.8 ([2a33680](https://github.com/wmfs/supercopy/commit/2a33680d681eb22f81c289c980d103a96c072025))
+* **deps-dev:** Bump semantic-release from 17.3.8 to 17.3.9 ([8d4281a](https://github.com/wmfs/supercopy/commit/8d4281a6d477357d142b5c1f8953246dea8edb63))
+
 # [1.43.0](https://github.com/wmfs/supercopy/compare/v1.42.0...v1.43.0) (2021-01-12)
 
 
