@@ -1,3 +1,27 @@
+# [1.45.0](https://github.com/wmfs/supercopy/compare/v1.44.0...v1.45.0) (2021-05-13)
+
+
+### 🛠 Builds
+
+* **deps:** add lodash ([61e72ce](https://github.com/wmfs/supercopy/commit/61e72ce0a75f112737837d15e4e436795ccfe27c))
+* **deps-dev:** Bump chai from 4.3.0 to 4.3.1 ([f7f8c78](https://github.com/wmfs/supercopy/commit/f7f8c78b8ed305ca7a5f2ba688c548056c586d97))
+* **deps-dev:** Bump chai from 4.3.1 to 4.3.2 ([4053e9c](https://github.com/wmfs/supercopy/commit/4053e9cf04c1c984dc202be958968ae054aceac2))
+* **deps-dev:** Bump chai from 4.3.2 to 4.3.3 ([eb89b8f](https://github.com/wmfs/supercopy/commit/eb89b8fe1c1be9c259d4566f9e9d40c5490d409f))
+* **deps-dev:** Bump chai from 4.3.3 to 4.3.4 ([22bf9c4](https://github.com/wmfs/supercopy/commit/22bf9c43cc79014b8502a13c651ec81b0bb1d3df))
+* **deps-dev:** Bump codecov from 3.8.1 to 3.8.2 ([7554a4e](https://github.com/wmfs/supercopy/commit/7554a4e7f59b3a0a81bd49af6a72aeea4199a9ec))
+* **deps-dev:** Bump mocha from 8.3.0 to 8.3.1 ([5c880d4](https://github.com/wmfs/supercopy/commit/5c880d4fae5f9856421f4997ec2bb88fb0f048d9))
+* **deps-dev:** Bump mocha from 8.3.1 to 8.3.2 ([f81a538](https://github.com/wmfs/supercopy/commit/f81a5386bf2c0bbd35e6815152d57e2a7d039cb7))
+* **deps-dev:** Bump mocha from 8.3.2 to 8.4.0 ([0e4bc67](https://github.com/wmfs/supercopy/commit/0e4bc6776741134fe14ca339ed77709813ec1032))
+* **deps-dev:** Bump semantic-release from 17.3.9 to 17.4.0 ([19bd66d](https://github.com/wmfs/supercopy/commit/19bd66dbe956de19bf883b60e0d12dedc7b080eb))
+* **deps-dev:** Bump semantic-release from 17.4.0 to 17.4.1 ([827fc57](https://github.com/wmfs/supercopy/commit/827fc5756c0e0a8b8d28c7fa460379397afe6eec))
+* **deps-dev:** Bump semantic-release from 17.4.1 to 17.4.2 ([f79130c](https://github.com/wmfs/supercopy/commit/f79130cc16551de85a4567fbbde3003615ce4c8f))
+* **deps-dev:** Bump semantic-release from 17.4.2 to 17.4.3 ([73d1ecc](https://github.com/wmfs/supercopy/commit/73d1ecc068f41cd21dc24fcad6090f73ad050e7e))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** update postgres config to 13.2 ([e88d527](https://github.com/wmfs/supercopy/commit/e88d5271cc39a7b2709051279e198ea3682f1dfe))
+
 # [1.44.0](https://github.com/wmfs/supercopy/compare/v1.43.0...v1.44.0) (2021-02-23)
 
 
