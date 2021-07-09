@@ -1,3 +1,14 @@
+# [1.46.0](https://github.com/wmfs/supercopy/compare/v1.45.0...v1.46.0) (2021-07-09)
+
+
+### 🛠 Builds
+
+* **deps:** Bump debug from 4.3.1 to 4.3.2 ([69e44ba](https://github.com/wmfs/supercopy/commit/69e44bae1d4784eadfe0c6179745df3a2e1663a6))
+* **deps-dev:** Bump mocha from 8.4.0 to 9.0.0 ([9af3ff1](https://github.com/wmfs/supercopy/commit/9af3ff16d58e1c923d3f119937ca61e64bdc3191))
+* **deps-dev:** Bump mocha from 9.0.0 to 9.0.1 ([f16ee22](https://github.com/wmfs/supercopy/commit/f16ee22a78d4d66038e03d314a3f03ca5a4ef4da))
+* **deps-dev:** Bump mocha from 9.0.1 to 9.0.2 ([9e1d649](https://github.com/wmfs/supercopy/commit/9e1d6490fda33badce21541bff3f840c229eebea))
+* **deps-dev:** Bump semantic-release from 17.4.3 to 17.4.4 ([ccd5c10](https://github.com/wmfs/supercopy/commit/ccd5c104027bc69d67249751fabe3f7ac734acf0))
+
 # [1.45.0](https://github.com/wmfs/supercopy/compare/v1.44.0...v1.45.0) (2021-05-13)
 
 
