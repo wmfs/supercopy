@@ -1,3 +1,40 @@
+# [1.47.0](https://github.com/wmfs/supercopy/compare/v1.46.0...v1.47.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps-dev:** Bump [@wmfs](https://github.com/wmfs)/hl-pg-client from 1.27.0 to 1.28.0 ([e648ff0](https://github.com/wmfs/supercopy/commit/e648ff088fa67b00fa2bdcbfa30b052528bf4d5a))
+* **deps-dev:** Bump codecov from 3.8.2 to 3.8.3 ([b5f4d61](https://github.com/wmfs/supercopy/commit/b5f4d61cbf326c25b18d0c9d8fd76d0fc36a26e4))
+* **deps-dev:** Bump mocha from 9.0.2 to 9.0.3 ([9311370](https://github.com/wmfs/supercopy/commit/93113706a99877c2bfa0c41e06c5c561048b20a7))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/changelog to v6 ([bf370a6](https://github.com/wmfs/supercopy/commit/bf370a6039fbab605e94db9d41b166ee2cb15763))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v10 ([1a07614](https://github.com/wmfs/supercopy/commit/1a07614e91f5b0288c6a74e3a10477b8a4bb7d92))
+* **deps-dev:** update dependency [@semantic-release](https://github.com/semantic-release)/git to v9.0.1 ([986b4cf](https://github.com/wmfs/supercopy/commit/986b4cf2ef6c8b96adbcec921cd3dc5a40febd61))
+* **deps-dev:** update dependency mocha to v9.1.0 ([9ee6b2f](https://github.com/wmfs/supercopy/commit/9ee6b2f94378f2686f0f29d383db162fcc9bb894))
+* **deps-dev:** update dependency mocha to v9.1.1 ([b9b237e](https://github.com/wmfs/supercopy/commit/b9b237eb787d0765ee9c39e1937fb77f8de7462d))
+* **deps-dev:** update dependency mocha to v9.1.2 ([3029ff2](https://github.com/wmfs/supercopy/commit/3029ff21beb16328e8a61fb84d1e12b9d9d3d679))
+* **deps-dev:** update dependency mocha to v9.1.3 ([f53b17e](https://github.com/wmfs/supercopy/commit/f53b17edae1a310de8d087e240150bfdede094e8))
+* **deps-dev:** update dependency mocha to v9.1.4 ([00b31c0](https://github.com/wmfs/supercopy/commit/00b31c0152dc0445b680a9263c259e5f0c67f621))
+* **deps-dev:** update dependency mocha to v9.2.0 ([e67c0f5](https://github.com/wmfs/supercopy/commit/e67c0f5d51b9d3db00bb22e4e0bbefbc6d4ace1b))
+* **deps-dev:** update dependency semantic-release to v17.4.5 ([4545f9d](https://github.com/wmfs/supercopy/commit/4545f9d2488a5cdcecd2225a6fd3950d0d03e746))
+* **deps-dev:** update dependency semantic-release to v17.4.6 ([8222243](https://github.com/wmfs/supercopy/commit/8222243600dc93b3b3a4808e853ee0e8e454633b))
+* **deps-dev:** update dependency semantic-release to v17.4.7 ([844637b](https://github.com/wmfs/supercopy/commit/844637b19e99bcbd79ff70804063ca6f1e5ef687))
+* **deps-dev:** update dependency semantic-release to v18 ([8dbc0a8](https://github.com/wmfs/supercopy/commit/8dbc0a8733492af50bd23e88741907ac12db95d7))
+* **deps-dev:** update dependency semantic-release to v18.0.1 ([b311a5c](https://github.com/wmfs/supercopy/commit/b311a5cbabfe4fc894dc1f56e93795373c49edb9))
+* **deps-dev:** update dependency semantic-release to v19 ([6484e8d](https://github.com/wmfs/supercopy/commit/6484e8d42ea8f1deb641b62a9bc9d288eb0d9a74))
+* **deps-dev:** update dependency standard to v16.0.4 ([e4dbb7b](https://github.com/wmfs/supercopy/commit/e4dbb7bf33af9edbc8051cba8c487ea95638c1da))
+* **deps-dev:** update semantic-release monorepo ([0836b1d](https://github.com/wmfs/supercopy/commit/0836b1d07a2b9577ac65a93868cedf9b1d0057be))
+* **deps:** update dependency debug to v4.3.3 ([2047be0](https://github.com/wmfs/supercopy/commit/2047be0fba4c205b9077094db07f7e9a3685d602))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** CircleCI update next gen PostgreSQL image [sc-11442] ([7faaa63](https://github.com/wmfs/supercopy/commit/7faaa63ea9e57cb4b78f74f76aa781abe436f905))
+
+
+### ♻️ Chores
+
+* add renovate config [ch6600] ([e9f6429](https://github.com/wmfs/supercopy/commit/e9f64299aaa0897ba54e5fca4c6d80dd52383a82))
+
 # [1.46.0](https://github.com/wmfs/supercopy/compare/v1.45.0...v1.46.0) (2021-07-09)
 
 
