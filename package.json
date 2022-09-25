@@ -26,7 +26,7 @@
     "lodash": "4.17.21",
     "csv-string": "4.0.1",
     "debug": "4.3.3",
-    "pg-copy-streams": "5.1.1",
+    "pg-copy-streams": "6.0.4",
     "upath": "2.0.1"
   },
   "devDependencies": {
