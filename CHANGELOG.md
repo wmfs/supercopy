@@ -1,3 +1,21 @@
+# [1.48.0](https://github.com/wmfs/supercopy/compare/v1.47.0...v1.48.0) (2022-11-01)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/hl-pg-client to v1.29.0 ([d90d450](https://github.com/wmfs/supercopy/commit/d90d450ef168a9afdd26e8c53db9a56df0518b1a))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/hl-pg-client to v1.30.0 ([d313c95](https://github.com/wmfs/supercopy/commit/d313c95cf849bc010ef46f76e1cb087015b48a2f))
+* **deps-dev:** update dependency chai to v4.3.5 ([7ca4d89](https://github.com/wmfs/supercopy/commit/7ca4d89fd14954bd0f7db7bbc93711c8c3f80bbc))
+* **deps-dev:** update dependency chai to v4.3.6 ([9705dae](https://github.com/wmfs/supercopy/commit/9705dae2123e0c79a1c75522499fda5d0c418979))
+* **deps-dev:** update dependency mocha to v10 ([f1f1dad](https://github.com/wmfs/supercopy/commit/f1f1dad6b4a1b56f0c1e96e386f23cfd7c0c8dcc))
+* **deps-dev:** update dependency mocha to v10.1.0 ([a16120d](https://github.com/wmfs/supercopy/commit/a16120d954c3162e66f0e09708e20e41385f8ec2))
+* **deps-dev:** update dependency mocha to v9.2.1 ([d531ded](https://github.com/wmfs/supercopy/commit/d531ded46bc8a5b4985ed0c8a311ea755f8da837))
+* **deps-dev:** update dependency mocha to v9.2.2 ([25422eb](https://github.com/wmfs/supercopy/commit/25422ebac053c9f057fd9ebefab8fa38004472d4))
+* **deps-dev:** update dependency semantic-release to v19.0.3 ([df4c293](https://github.com/wmfs/supercopy/commit/df4c2931c8d6620ae20e7e4a4cf9758d542f2ac5))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([25b80a4](https://github.com/wmfs/supercopy/commit/25b80a45ca79bd8102f524cf94eff1778438082d))
+* **deps-dev:** update dependency standard to v17 ([5206394](https://github.com/wmfs/supercopy/commit/52063945d8d784eb2523cc61dfd08804b659e805))
+* **deps:** update dependency pg-copy-streams to v6 ([5ffc20b](https://github.com/wmfs/supercopy/commit/5ffc20bde13eb87fcecd2d8fbbde4c9216951c3a))
+
 # [1.47.0](https://github.com/wmfs/supercopy/compare/v1.46.0...v1.47.0) (2022-01-25)
 
 
