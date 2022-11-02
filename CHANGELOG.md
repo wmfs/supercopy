@@ -1,3 +1,10 @@
+# [1.50.0](https://github.com/wmfs/supercopy/compare/v1.49.0...v1.50.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency csv-string to v4.1.1 ([1a805f6](https://github.com/wmfs/supercopy/commit/1a805f65ae41ceed985bdf8b8e5fbf7696315df8))
+
 # [1.49.0](https://github.com/wmfs/supercopy/compare/v1.48.0...v1.49.0) (2022-11-02)
 
 
