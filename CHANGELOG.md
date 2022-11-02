@@ -1,3 +1,10 @@
+# [1.49.0](https://github.com/wmfs/supercopy/compare/v1.48.0...v1.49.0) (2022-11-02)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency debug to v4.3.4 ([912131f](https://github.com/wmfs/supercopy/commit/912131ffdda09ca960eeb59936b3f86e54f4d792))
+
 # [1.48.0](https://github.com/wmfs/supercopy/compare/v1.47.0...v1.48.0) (2022-11-01)
 
 
