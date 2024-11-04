@@ -1,3 +1,5 @@
+# [1.52.0](https://github.com/wmfs/supercopy/compare/v1.51.0...v1.52.0) (2024-11-04)
+
 # [1.51.0](https://github.com/wmfs/supercopy/compare/v1.50.0...v1.51.0) (2024-11-04)
 
 # [1.50.0](https://github.com/wmfs/supercopy/compare/v1.49.0...v1.50.0) (2022-11-02)
