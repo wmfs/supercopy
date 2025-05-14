@@ -1,3 +1,24 @@
+## [1.54.0](https://github.com/wmfs/supercopy/compare/v1.53.0...v1.54.0) (2025-05-14)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** [sc-29160] Resolve issue with semantic-release changelog notes ([#444](https://github.com/wmfs/supercopy/issues/444)) ([bffb1a3](https://github.com/wmfs/supercopy/commit/bffb1a3e1831d090c4b1aa6560a62e775dc4b7ac))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.34.0 ([#442](https://github.com/wmfs/supercopy/issues/442)) ([36eca59](https://github.com/wmfs/supercopy/commit/36eca59841093f39db77e2b48b3917d1f2fdd798))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.35.0 ([#447](https://github.com/wmfs/supercopy/issues/447)) ([b3775bf](https://github.com/wmfs/supercopy/commit/b3775bfa6ff07f99dee87dda63d52949cd28ebce))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.36.0 ([#448](https://github.com/wmfs/supercopy/issues/448)) ([5269046](https://github.com/wmfs/supercopy/commit/5269046c168f2d256eee74493af4d6e47192f1f3))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.37.0 ([#450](https://github.com/wmfs/supercopy/issues/450)) ([f2a90e9](https://github.com/wmfs/supercopy/commit/f2a90e943fd4e14d177f1f68898cb59e0eaddfc7))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.38.0 ([#451](https://github.com/wmfs/supercopy/issues/451)) ([13b12d6](https://github.com/wmfs/supercopy/commit/13b12d6f30c9c3c276b77c3de83877a8d8a6ec4e))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.39.0 ([#452](https://github.com/wmfs/supercopy/issues/452)) ([e40e5fe](https://github.com/wmfs/supercopy/commit/e40e5febf620217efc0697a4e997237ebaf1691a))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.40.0 ([#453](https://github.com/wmfs/supercopy/issues/453)) ([bbbaf27](https://github.com/wmfs/supercopy/commit/bbbaf2754822e7025c8e3f44983ca2b254f21c97))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.41.0 ([#454](https://github.com/wmfs/supercopy/issues/454)) ([589f576](https://github.com/wmfs/supercopy/commit/589f576e9c33d8d8f320ddee3db092d594965907))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.42.0 ([#456](https://github.com/wmfs/supercopy/issues/456)) ([2749255](https://github.com/wmfs/supercopy/commit/27492551adff99d4f66fc3de8db3b337a47b8187))
+* **deps-dev:** update dependency mocha to v11.1.0 ([#445](https://github.com/wmfs/supercopy/issues/445)) ([09988bd](https://github.com/wmfs/supercopy/commit/09988bd9ef8df17e574631b6b35df3e2bc6987dc))
+* **deps-dev:** update dependency mocha to v11.2.2 ([#455](https://github.com/wmfs/supercopy/issues/455)) ([bf648aa](https://github.com/wmfs/supercopy/commit/bf648aa6f1e47a9970ebf795a876f8d897cfb72b))
+* **deps-dev:** update dependency semantic-release to v24.2.1 ([#443](https://github.com/wmfs/supercopy/issues/443)) ([6b45959](https://github.com/wmfs/supercopy/commit/6b459595fda826834918b4d9654326367b595355))
+* **deps-dev:** update dependency semantic-release to v24.2.2 ([#446](https://github.com/wmfs/supercopy/issues/446)) ([9dde340](https://github.com/wmfs/supercopy/commit/9dde3403bc3b135a905387f353d081977b5b098b))
+* **deps-dev:** update dependency semantic-release to v24.2.3 ([#449](https://github.com/wmfs/supercopy/issues/449)) ([ddcc84b](https://github.com/wmfs/supercopy/commit/ddcc84ba93a77e0d02050f831c41b8c6c35247b1))
+* **deps:** update dependency debug to v4.4.1 ([#457](https://github.com/wmfs/supercopy/issues/457)) ([27256e9](https://github.com/wmfs/supercopy/commit/27256e9716c061bc14b236ac97ec69ec341c5752))
+
 # [1.53.0](https://github.com/wmfs/supercopy/compare/v1.52.0...v1.53.0) (2024-12-09)
 
 # [1.52.0](https://github.com/wmfs/supercopy/compare/v1.51.0...v1.52.0) (2024-11-04)
