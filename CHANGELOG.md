@@ -1,3 +1,27 @@
+## [1.56.0](https://github.com/wmfs/supercopy/compare/v1.55.0...v1.56.0) (2025-10-21)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency @semantic-release/release-notes-generator to v14.1.0 ([#476](https://github.com/wmfs/supercopy/issues/476)) ([0905f73](https://github.com/wmfs/supercopy/commit/0905f733ca5c46a3776b90d9c735e92beafa2b3c))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.44.0 ([#468](https://github.com/wmfs/supercopy/issues/468)) ([609b7ac](https://github.com/wmfs/supercopy/commit/609b7acef8154cdf9061afcf947c6de712ac2630))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.45.0 ([#471](https://github.com/wmfs/supercopy/issues/471)) ([2787f40](https://github.com/wmfs/supercopy/commit/2787f4090fdab6d529ec4325c567818269cf5885))
+* **deps-dev:** update dependency chai to v6 ([#474](https://github.com/wmfs/supercopy/issues/474)) ([4cda2c2](https://github.com/wmfs/supercopy/commit/4cda2c25de0c5bd2d357b53ea844733383a3a4ee))
+* **deps-dev:** update dependency chai to v6.2.0 ([#480](https://github.com/wmfs/supercopy/issues/480)) ([e853f74](https://github.com/wmfs/supercopy/commit/e853f74162a9c0eb97494d678ba053878e398048))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v9.1.0 ([#472](https://github.com/wmfs/supercopy/issues/472)) ([a9982b8](https://github.com/wmfs/supercopy/commit/a9982b821f463af50ee62c8610ff539114015b99))
+* **deps-dev:** update dependency mocha to v11.6.0 ([#466](https://github.com/wmfs/supercopy/issues/466)) ([38de71f](https://github.com/wmfs/supercopy/commit/38de71f130e37e00e2427e5ac10d0e1edd0fc399))
+* **deps-dev:** update dependency mocha to v11.7.0 ([#467](https://github.com/wmfs/supercopy/issues/467)) ([6753ae4](https://github.com/wmfs/supercopy/commit/6753ae480cfc922b753f2327cf42996dcf26785a))
+* **deps-dev:** update dependency mocha to v11.7.1 ([#469](https://github.com/wmfs/supercopy/issues/469)) ([63a04c6](https://github.com/wmfs/supercopy/commit/63a04c602ed5cad6833b617aa9ef196ea08bb382))
+* **deps-dev:** update dependency mocha to v11.7.2 ([#475](https://github.com/wmfs/supercopy/issues/475)) ([01964bf](https://github.com/wmfs/supercopy/commit/01964bf81c2b57c36939068fa9a194ae54288cef))
+* **deps-dev:** update dependency mocha to v11.7.3 ([#481](https://github.com/wmfs/supercopy/issues/481)) ([62704d6](https://github.com/wmfs/supercopy/commit/62704d63ea39fa8209920f44d3f4112663619de0))
+* **deps-dev:** update dependency mocha to v11.7.4 ([#482](https://github.com/wmfs/supercopy/issues/482)) ([258f4ae](https://github.com/wmfs/supercopy/commit/258f4aebcb0c1ad33a6e7a8a34811052a5f165d6))
+* **deps-dev:** update dependency semantic-release to v24.2.6 ([#470](https://github.com/wmfs/supercopy/issues/470)) ([2761731](https://github.com/wmfs/supercopy/commit/276173109997d26d030732020f9a7d352aa8d767))
+* **deps-dev:** update dependency semantic-release to v24.2.7 ([#473](https://github.com/wmfs/supercopy/issues/473)) ([9100ff8](https://github.com/wmfs/supercopy/commit/9100ff888e7e1fac8f2e8703993bdd035a67bc68))
+* **deps-dev:** update dependency semantic-release to v24.2.8 ([#477](https://github.com/wmfs/supercopy/issues/477)) ([2d7d952](https://github.com/wmfs/supercopy/commit/2d7d952df45dc70d66d07c58ee9c5dde83377d77))
+* **deps-dev:** update dependency semantic-release to v24.2.9 ([#479](https://github.com/wmfs/supercopy/issues/479)) ([fef6e51](https://github.com/wmfs/supercopy/commit/fef6e51e2a03742370495b710dd85e0957359d70))
+* **deps-dev:** update dependency semantic-release to v25 ([#483](https://github.com/wmfs/supercopy/issues/483)) ([a3df77a](https://github.com/wmfs/supercopy/commit/a3df77a09fd4ca559236f2c03df95c92be7c159c))
+* **deps-dev:** update dependency semantic-release to v25.0.1 ([#484](https://github.com/wmfs/supercopy/issues/484)) ([d8844e7](https://github.com/wmfs/supercopy/commit/d8844e794113f1c329739f403651cc282364090a))
+* **deps:** revert chai to non-esm ([c6ab6c8](https://github.com/wmfs/supercopy/commit/c6ab6c8305991d6204ab7ea13472801acc978d6a))
+
 ## [1.55.0](https://github.com/wmfs/supercopy/compare/v1.54.0...v1.55.0) (2025-05-28)
 
 ### Build system dependencies :hammer:
