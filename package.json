@@ -23,7 +23,7 @@
   },
   "main": "./lib/index.js",
   "dependencies": {
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "csv-string": "4.1.1",
     "debug": "4.4.1",
     "pg-copy-streams": "7.0.0",
