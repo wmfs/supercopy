@@ -1,3 +1,5 @@
+## [1.56.1](https://github.com/wmfs/supercopy/compare/v1.56.0...v1.56.1) (2026-08-13)
+
 ## [1.56.0](https://github.com/wmfs/supercopy/compare/v1.55.0...v1.56.0) (2025-10-21)
 
 ### Build system dependencies :hammer:
