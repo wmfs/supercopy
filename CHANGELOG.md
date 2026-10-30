@@ -1,3 +1,22 @@
+## [1.57.0](https://github.com/wmfs/supercopy/compare/v1.56.1...v1.57.0) (2026-10-30)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** fix conventionalcommit versions [sc-34125] ([76b4d44](https://github.com/wmfs/supercopy/commit/76b4d446565e5de05207c764404e115d83a9396e))
+* **deps-dev:** update dependency @wmfs/hl-pg-client to v1.46.1 ([#518](https://github.com/wmfs/supercopy/issues/518)) ([4b53df0](https://github.com/wmfs/supercopy/commit/4b53df0a2398ffe41df48226e569c58abdba8cdd))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.0 ([#519](https://github.com/wmfs/supercopy/issues/519)) ([072b3bc](https://github.com/wmfs/supercopy/commit/072b3bce862e13c92bc28d4b00592714216987bb))
+* **deps-dev:** update dependency conventional-changelog-conventionalcommits to v10.4.1 ([#524](https://github.com/wmfs/supercopy/issues/524)) ([c1edf31](https://github.com/wmfs/supercopy/commit/c1edf317e96e6e639aa97f7617ca67f3b633ee8d))
+* **deps-dev:** update dependency mocha to v12 ([#520](https://github.com/wmfs/supercopy/issues/520)) ([0433084](https://github.com/wmfs/supercopy/commit/043308492bef365d73e877fa03ad6ab0b3e7e7d0))
+* **deps-dev:** update dependency mocha to v12.0.1 ([#521](https://github.com/wmfs/supercopy/issues/521)) ([0a595e3](https://github.com/wmfs/supercopy/commit/0a595e30a818a28fbb741745b2fa7ac29b1a7389))
+* **deps-dev:** update dependency mocha to v12.0.2 ([#522](https://github.com/wmfs/supercopy/issues/522)) ([9a5a757](https://github.com/wmfs/supercopy/commit/9a5a7579b4bf036ca18df15257e5ebb7283a077b))
+* **deps-dev:** update dependency mocha to v12.0.3 ([#523](https://github.com/wmfs/supercopy/issues/523)) ([849b037](https://github.com/wmfs/supercopy/commit/849b037eb98fa6d4b65737771282eca7cd1602f8))
+* **deps:** update dependency lodash to v4.18.1 [security] ([#493](https://github.com/wmfs/supercopy/issues/493)) ([b6ab1e6](https://github.com/wmfs/supercopy/commit/b6ab1e60fc47819ee283d0c76d0a45d342b7769e))
+
+### CICD Configuration Changes :construction_worker:
+
+* use github-app-token orb for release token [sc-34101] ([#526](https://github.com/wmfs/supercopy/issues/526)) ([7bc7299](https://github.com/wmfs/supercopy/commit/7bc7299af84271b3daaf81d9a12b12ab36cb192c))
+* use shared renovate preset [sc-34117] ([#525](https://github.com/wmfs/supercopy/issues/525)) ([43e4dda](https://github.com/wmfs/supercopy/commit/43e4ddafffe78c65d12997e50d3b02faa77470c0))
+
 ## [1.56.1](https://github.com/wmfs/supercopy/compare/v1.56.0...v1.56.1) (2026-08-13)
 
 ## [1.56.0](https://github.com/wmfs/supercopy/compare/v1.55.0...v1.56.0) (2025-10-21)
