@@ -1,3 +1,9 @@
+## [1.59.0](https://github.com/wmfs/supercopy/compare/v1.58.0...v1.59.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency debug to v4.4.3 ([#478](https://github.com/wmfs/supercopy/issues/478)) ([75cd462](https://github.com/wmfs/supercopy/commit/75cd462461074fc1e20962815ba92d91aff9bd3a))
+
 ## [1.58.0](https://github.com/wmfs/supercopy/compare/v1.57.0...v1.58.0) (2026-11-02)
 
 ### Build system dependencies :hammer:
