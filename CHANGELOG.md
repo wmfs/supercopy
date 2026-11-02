@@ -1,3 +1,9 @@
+## [1.58.0](https://github.com/wmfs/supercopy/compare/v1.57.0...v1.58.0) (2026-11-02)
+
+### Build system dependencies :hammer:
+
+* **deps:** update dependency upath to v3 ([#502](https://github.com/wmfs/supercopy/issues/502)) ([552f6ca](https://github.com/wmfs/supercopy/commit/552f6ca5c42a73e4d140213edc04be8db04bf14f))
+
 ## [1.57.0](https://github.com/wmfs/supercopy/compare/v1.56.1...v1.57.0) (2026-10-30)
 
 ### Build system dependencies :hammer:
